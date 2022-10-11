@@ -1,1 +1,1 @@
-# Expo-App
+# Basic Expo App
