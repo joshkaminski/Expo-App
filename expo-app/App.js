@@ -16,7 +16,7 @@ function HomeScreen({navigation}) {
         color="#841584"
        />
     </View>
-  );
+  ); 
 }
 
 function OtherScreen() {
@@ -39,3 +39,4 @@ export default function App() {
     </NavigationContainer>
   );
 }
+
